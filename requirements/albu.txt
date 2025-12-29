@@ -1,1 +1,2 @@
-albumentations --no-binary qudida,albumentations
+# albumentations --no-binary qudida,albumentations
+albumentations
